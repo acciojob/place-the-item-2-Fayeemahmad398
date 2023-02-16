@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 
-.container{
+.holder{
 	display:flex;
 	flex-flow:wrap;
  justify-content:center;
