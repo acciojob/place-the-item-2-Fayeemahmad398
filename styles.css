@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+
+.container{
+	display:flex;
+ justify-content:center;
+	flex-flow:wrap;
+
+}
+
+
+
+.item{
+	padding:23px;
+	background-color:black;
+	margin:2px;
+}
